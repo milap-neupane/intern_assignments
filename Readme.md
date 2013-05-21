@@ -1,4 +1,5 @@
 ----------------------------------------------------------------
+  
 Cloud Worker Eligibility Tester Sample Ruby Script
 USAGE:
 worker = Worker.new("name", age, {:test1 => score1, :test2 => score2}, "gender", ['Nepal', 'Kathmandu', '00977'])
