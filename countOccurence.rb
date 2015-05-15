@@ -1,13 +1,11 @@
 def CountPart(arr)
-  hs = {}
+  hs = Hash.new
   arr.each do |value|
-    count = 0
-    arr.each do |element|
-      if element == value
-        count += 1
-      end
+    if hs.has_key?(value)
+      hs[value] += 1
+    else
+      hs[value] = 1
     end
-    hs[value] = count
   end
   hs
 end
