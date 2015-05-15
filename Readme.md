@@ -1,1 +1,4 @@
-_Assignments for intern training_
+Intern Git Trial
+================
+
+Adding 2 num with method add2num(a, b)
