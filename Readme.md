@@ -1,4 +1,4 @@
 Intern Git Trial
 ================
 
-Adding 2 num with method add2num(a, b)
+Adding 3 num with method add3num(num1, num2, num3)
